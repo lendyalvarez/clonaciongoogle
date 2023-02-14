@@ -2,10 +2,10 @@
 
 ##  **ÍNDICE**
 
-* [1. Intro]  (#)
-* [2.  Qué construí] (#)
-* [3. Objetivo del proyecto] (#)
-* [4. link a demo] (#)
+* [1. Intro](#)
+* [2. Qué construí](#)
+* [3. Objetivo del proyecto](#)
+* [4. Link a Demo](#)
 
 ****
 
